@@ -1,2 +1,15 @@
-# umi-test-for-model-js
- for https://github.com/umijs/umi/issues/4780
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
